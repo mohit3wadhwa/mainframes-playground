@@ -1,7 +1,3 @@
-# mainframes
-A repo for all Legacy codes and snippets
-
-
 # Mainframe Playground
 
 A collection of hands-on samples for IBM Mainframe technologies: COBOL, JCL, REXX, VSAM, Db2, IMS, MQ and common utilities.
