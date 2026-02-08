@@ -1,23 +1,14 @@
 # Mainframes Playground
 
-A collection of hands-on samples for IBM Mainframe technologies: COBOL, JCL, REXX, VSAM, Db2, IMS, MQ and common utilities.
+A structured collection of hands-on samples for IBM mainframe technologies: COBOL, JCL, REXX, VSAM, Db2, IMS, MQ, and common utilities.
+
+This repo is designed to be a **playground** where you can explore small, focused examples and see how the pieces fit together on z/OS.
+
+---
 
 ## Folder structure
 
-- `cobol/` – COBOL programs (basic, files, VSAM, Db2, IMS, MQ, utilities).
-- `jcl/` – JCL jobs for compilation, DB2 utilities, VSAM, SORT/JOIN, IMS, MQ.
-- `rexx/` – REXX scripts for TSO and ISPF automation.
-- `docs/` – Concept overviews and diagrams.
-
-## Getting started
-
-1. Clone the repo.
-2. Pick a topic (e.g. `cobol/basic/hello_world.cbl` and `jcl/cobol_compile_link_run/jcl_run_cobol.jcl`).
-3. Adapt dataset names, load libraries, and subsystem names for your site.
-4. Compile and run on z/OS or in your emulator/sandbox.
-
-Contributions are welcome: add new examples, improve comments, or suggest new topics via issues/PRs.
-
+```text
 mainframe-playground/
  ├─ README.md
  ├─ cobol/
@@ -65,7 +56,7 @@ mainframe-playground/
  │   │   └─ jcl_db2_unload_utility.jcl
  │   ├─ ims/
  │   │   ├─ jcl_ims_region_start.jcl
- │   │   └─ jcl_ims_batch_program.jcl
+ │   │   └─ jcl_ims_bmp_sample.jcl
  │   ├─ mq/
  │   │   ├─ jcl_mq_batch_program.jcl
  │   │   └─ jcl_mq_utility_example.jcl
@@ -105,6 +96,14 @@ mainframe-playground/
      └─ vsam_overview.md
 
 
+## Getting started
+
+1. Clone the repo.
+2. Pick a topic (e.g. `cobol/basic/hello_world.cbl` and `jcl/cobol_compile_link_run/jcl_run_cobol.jcl`).
+3. Adapt dataset names, load libraries, and subsystem names for your site.
+4. Compile and run on z/OS or in your emulator/sandbox.
+
+Contributions are welcome: add new examples, improve comments, or suggest new topics via issues/PRs.
 
 ## Useful link for 
 - TABLES/ARRAY in COBOL
