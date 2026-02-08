@@ -1,4 +1,4 @@
-# Mainframe Playground
+# Mainframes Playground
 
 A collection of hands-on samples for IBM Mainframe technologies: COBOL, JCL, REXX, VSAM, Db2, IMS, MQ and common utilities.
 
