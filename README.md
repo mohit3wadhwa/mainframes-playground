@@ -7,17 +7,19 @@ This repo is designed to be a **playground** where you can explore small, focuse
 ---
 
 # Cobol Topics
-Intro COBOL Program Structure          -              Division, Section & Paragraph					
-Variable Declarations                  -              Level Numbers, PIC clause, Data types & Size	
-Input-Output & Arithmetic              -              VALUE CLAUSE, Accept & Display - Compute		
-Data Movement Verbs                    -              Simple Move, Move with Of clause, Group Move & CORR	
-Conditional Statements                 -              IF & Evaluate Statement – Continue & Next Sentence  
-Control Sequence Verbs                 -              Perform ,STOP RUN, GOBACK, EXIT, EXIT PROGRAM, GOTO -
-File Handling                          -              OPEN, READ, WRITE, REWRITE, DELETE & CLOSE	
-Memory Saving                          -              Usage Clause, 88 Level Number, Redefines & Renames 66 LEVEL
-Array-Occurs table                     -              Search & Search All - PERFORM VARYING
-Sub-Program                            -              CALL Statement                (Static & Dynamic Call)
-String Handling Verbs                  -              String, Unstring, Inspect & Referential
+
+
+'''Intro COBOL Program Structure          -              Division, Section & Paragraph					
+'''Variable Declarations                  -              Level Numbers, PIC clause, Data types & Size	
+'''Input-Output & Arithmetic              -              VALUE CLAUSE, Accept & Display - Compute		
+''''Data Movement Verbs                    -              Simple Move, Move with Of clause, Group Move & CORR	
+'''Conditional Statements                 -              IF & Evaluate Statement – Continue & Next Sentence  
+'''Control Sequence Verbs                 -              Perform ,STOP RUN, GOBACK, EXIT, EXIT PROGRAM, GOTO -
+'''File Handling                          -              OPEN, READ, WRITE, REWRITE, DELETE & CLOSE	
+'''Memory Saving                          -              Usage Clause, 88 Level Number, Redefines & Renames 66 LEVEL
+'''Array-Occurs table                     -              Search & Search All - PERFORM VARYING
+'''Sub-Program                            -              CALL Statement(Static & Dynamic Call)
+'''String Handling Verbs                  -              String, Unstring, Inspect & Referential
 
 
 ## Folder structure
